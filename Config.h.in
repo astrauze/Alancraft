@@ -1,0 +1,7 @@
+#pragma once
+
+#define ALANCRAFT_ROOT_DIR     "@CMAKE_SOURCE_DIR@/"
+#define ALANCRAFT_SOURCE_DIR   "@CMAKE_SOURCE_DIR@/source/"
+#define ALANCRAFT_RESOURCE_DIR "@CMAKE_SOURCE_DIR@/resource/"
+#define ALANCRAFT_SHADER_DIR   "@CMAKE_SOURCE_DIR@/resource/shader/"
+#define ALANCRAFT_TEXTURE_DIR  "@CMAKE_SOURCE_DIR@/resource/texture/"

@@ -1,0 +1,13 @@
+[submodule "glfw"]
+	path = external/glfw
+	url = https://github.com/glfw/glfw.git
+	branch = latest
+[submodule "glm"]
+	path = external/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "FastNoise2"]
+	path = external/FastNoise2
+	url = https://github.com/Auburn/FastNoise2.git
+[submodule "spdlog"]
+	path = external/spdlog
+	url = https://github.com/gabime/spdlog.git
